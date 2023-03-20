@@ -1,7 +1,7 @@
 name: master_pull_to_refresh
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: a widget provided to the flutter scroll component drop-down refresh and pull up load.
+version: 1.0.1
+homepage: https://github.com/umkithya/master_pull_to_refresh
 
 environment:
   sdk: '>=2.19.3 <3.0.0'
